@@ -19,7 +19,7 @@ main:
 
     
   - title: "CV"
-    url: {{ site.baseurl }}/files/cv.pdf/
+    url: /{{ site.baseurl }}/files/cv.pdf/
     
  # - title: "Guide"
  #   url: /markdown/
