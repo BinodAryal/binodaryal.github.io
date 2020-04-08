@@ -19,7 +19,7 @@ main:
 
     
   - title: "CV"
-    url: https://binodaryal.github.io/cv.pdf
+    url: <a href="binodaryal.github.io/files/cv.pdf" target="_blank">PDF.</a>
     
   #- title: "Guide"
    #url: /markdown/
