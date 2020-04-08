@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Case Studies"
+permalink: /casestudies/
 author_profile: true
 ---
 
