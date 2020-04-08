@@ -19,8 +19,7 @@ main:
 
     
   - title: "CV"
-    url: /[download pdf](https://binodaryal.github.io/cv.pdf)/
-    #url: /files/cv.pdf/
+    url: /cv.pdf/
     
  # - title: "Guide"
  #   url: /markdown/
