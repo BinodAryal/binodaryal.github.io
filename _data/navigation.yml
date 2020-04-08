@@ -19,7 +19,7 @@ main:
 
     
   - title: "CV"
-    url: {{ site.baseurl }}/files/cv.pdf/
+    url: https://binodaryal.github.io/cv.pdf
     
   #- title: "Guide"
    #url: /markdown/
